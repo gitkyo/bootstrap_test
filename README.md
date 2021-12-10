@@ -2,7 +2,7 @@
   <img src=".github/logo.png" width="300" height="175" alt="Bootstrap npm logo">
 </p>
 
-<h3 align="center">Example from Bootstrap npm starter template</h3>
+<h3 align="center">Example from Bootstrap npm starter template </h3>
 
 
 
